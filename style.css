@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+
+#images{
+    background-color: green;
+    text-align: center;
+   
+}
+
+#ulist{
+    padding: 30px;
+
+}
+
+#olist{
+   
+    padding: 30px;
+}
+
+#table{
+   
+    background-color: sky blue;
+    padding: 30px;
+}
+
+}
+
+#para{
+    padding: 30px;
+    background-color: blue;
+}
+
+#para p{
+    font-size: 20px;
+}
+
+#links{
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+}
+
